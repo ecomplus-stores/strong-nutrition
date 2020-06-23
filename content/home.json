@@ -7,17 +7,11 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
+          "img": "/img/uploads/naoachouprodutofullbanner-1-1-.png",
+          "link": "https://api.whatsapp.com/send?phone=5577998048762&text=Oi,%20N%C3%A3o%20encontrei%20o%20produto%20que%20procurei",
+          "alt": "",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": ""
         }
       ]
     },
