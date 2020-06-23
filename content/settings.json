@@ -1,15 +1,14 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "My Shop",
-  "description": "My PWA Shop",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "store_id": 1119,
+  "name": "strong-nutrition",
+  "domain": "strong-nutrition.netlify.app",
+  "short_name": "strong-nutrition",
+  "description": "strong-nutrition",
+  "primary_color": "#333333",
+  "secondary_color": "#7a1213",
+  "bg_color": "#f1f1f1",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "_"
   },
   "logo": "/img/uploads/logo.png",
   "mini_logo": "",
