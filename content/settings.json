@@ -1,22 +1,23 @@
 {
-  "store_id": 1119,
-  "name": "strong-nutrition",
   "domain": "strong-nutrition.netlify.app",
-  "short_name": "strong-nutrition",
-  "description": "strong-nutrition",
+  "currency_symbol": "R$",
   "primary_color": "#333333",
-  "secondary_color": "#7a1213",
-  "bg_color": "#f1f1f1",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "_"
   },
+  "bg_color": "#f1f1f1",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "strong-nutrition",
+  "short_name": "strong-nutrition",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#58b94f",
+  "icon": "/img/icon.png",
+  "store_id": 1119,
+  "description": "strong-nutrition",
+  "large_icon": "/img/large-icon.png"
 }
