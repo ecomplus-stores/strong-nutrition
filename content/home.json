@@ -3,6 +3,10 @@
   "meta_description": "Strong Nutrition Suplementos em Vitoria da Conquista, Bahia. Nutrição Esportiva. Suplementos de qualidade e preços imbatíveis! ",
   "sections": [
     {
+      "type": "custom-html",
+      "html": "<h2>COMUNICADO</h2>\n<BR>\n<p>Em função do momento que passamos, os pedidos realizados no site podem sofrer atrasos no prazo de entrega.</p>"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
