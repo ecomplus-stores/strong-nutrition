@@ -14,13 +14,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/proteinas?Proteínas",
-      "/carboidratos?Carboidratos",
-      "/saude-e-bem-estar?Saúde e Bem-estar",
-      "/pre-treino?Pré-Treino",
-      "/outros?Outros"
-    ],
+    "featured": [],
     "random": 5,
     "full_width": false
   },
