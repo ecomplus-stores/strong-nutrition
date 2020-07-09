@@ -15,9 +15,13 @@
   },
   "categories_list": {
     "featured": [
-      "/saude-e-bem-estar?Saúde e Bem-estar",
+      "/objetivo?Objetivo",
       "/proteinas?Proteínas",
-      "/carboidratos?Carboidratos"
+      "/carboidratos?Carboidratos",
+      "/pre-treino?Pré-Treino",
+      "/emagrecedores?Emagrecedores",
+      "/saude-e-bem-estar?Saúde e Bem-estar",
+      "/outros?Outros"
     ],
     "random": 0,
     "full_width": true
