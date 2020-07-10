@@ -44,6 +44,10 @@
       "title": "Mais vendidos 👌"
     },
     {
+      "type": "custom-html",
+      "html": "<h2>Dicas, Receitas e Muito Mais 💪</h2>"
+    },
+    {
       "type": "blog",
       "enabled": true
     }
