@@ -42,6 +42,10 @@
       "collection_id": "5f06039014ff772fde7e705f",
       "sort": null,
       "title": "Mais vendidos 👌"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
