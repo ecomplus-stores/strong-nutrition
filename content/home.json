@@ -45,7 +45,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h2 style=\"text-align: center;\">Dicas, Receitas e Muito Mais 💪</h2>"
+      "html": "<h4 style=\"text-align: center;\">Dicas, Receitas e Muito Mais 💪</h4>"
     },
     {
       "type": "blog",
