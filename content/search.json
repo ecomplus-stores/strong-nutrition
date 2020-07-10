@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/naoachouprodutotarja.png"
+    },
+    {
       "type": "search-engine",
       "enabled": true
     }
