@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "custom-html",
-      "html": "<h4>ATENÇÃO</h4>\n<p>Estamos de visual novo! Fizemos isso com o objetivo de\n  melhorar a sua experiência em nossa loja! Agora ficou muito\nmelhor e mais fácil navegar na Strong! Caso você tenha\nfeito o pedido antes do dia 14/07/2020 <a href=\"https://strongnutrition.e-com.club/\">clique aqui</a> para mais informações \n  ou entre em contato com nosso WhatsApp (77) 9 9804-8762</p>"
+      "html": "<h4>ATENÇÃO</h4>\n<p>Estamos de visual novo! Fizemos isso com o objetivo de\n  melhorar a sua experiência em nossa loja! Agora ficou muito\nmelhor e mais fácil navegar na Strong! Caso você tenha\nfeito o pedido antes do dia 14/07/2020 <strong><a href=\"https://strongnutrition.e-com.club/\">CLIQUE AQUI</a></strong> para mais informações \n  ou entre em contato com nosso WhatsApp (77) 9 9804-8762</p>"
     },
     {
       "type": "banner-slider",
