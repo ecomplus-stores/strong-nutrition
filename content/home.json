@@ -50,6 +50,10 @@
     {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4>ATENÇÃO</h4>\n<p>Estamos de visual novo! Fizemos isso com o objetivo de\n  melhorar a sua experiência em nossa loja! Agora ficou muito\nmelhor e mais fácil navegar na Strong! Caso você tenha\nfeito o pedido antes do dia 14/07/2020 <a href=\"strongnutrition.e-com.club\">clique aqui</a> para mais informações</p>"
     }
   ]
 }
