@@ -46,14 +46,6 @@
       "collection_id": "5f06039014ff772fde7e705f",
       "sort": null,
       "title": "Mais vendidos 👌"
-    },
-    {
-      "type": "custom-html",
-      "html": "<h4 style=\"text-align: center;\">Dicas, Receitas e Muito Mais 💪</h4>"
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ]
 }
