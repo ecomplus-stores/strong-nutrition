@@ -3,13 +3,21 @@
   "meta_description": "Strong Nutrition Suplementos em Vitoria da Conquista, Bahia. Nutrição Esportiva. Suplementos de qualidade e preços imbatíveis! ",
   "sections": [
     {
-      "type": "custom-html",
-      "html": "<h4>ATENÇÃO</h4>\n<p>Estamos de visual novo! Fizemos isso com o objetivo de\n  melhorar a sua experiência em nossa loja! Agora ficou muito\nmelhor e mais fácil navegar na Strong! Caso você tenha\nfeito o pedido antes do dia 14/07/2020 <strong><a href=\"https://api.whatsapp.com/send?phone=5577998048762&text=Oi,%20quero%20saber%20sobre%20meu%20pedido\">CLIQUE AQUI</a></strong> para mais informações \n  ou entre em contato com nosso WhatsApp <strong>(77) 9 9804-8762</strong></p>"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
+        {
+          "start": "2020-08-20T13:57:22.629Z",
+          "end": "2024-07-03T13:57:22.670Z",
+          "img": "/img/uploads/true_slim_shape.png",
+          "link": "https://www.strongnutrition.com.br/true-slim-shape-600mg-120caps---true-source"
+        },
+        {
+          "start": "2020-08-20T13:52:59.873Z",
+          "end": "2023-04-13T13:52:59.916Z",
+          "img": "/img/uploads/biotin_bealty_natrol.png",
+          "link": "https://www.strongnutrition.com.br/biotina-beauty-10000-mcg-forca-maxima-100-comprimidos---natrol"
+        },
         {
           "start": "2020-07-20T19:04:45.115Z",
           "end": "2021-10-07T19:04:45.373Z",
@@ -22,12 +30,6 @@
           "alt": "",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "start": "2020-07-10T12:23:13.857Z",
-          "end": "2020-12-31T12:23:13.897Z",
-          "img": "/img/uploads/d3.png",
-          "link": "https://strong-nutrition.netlify.app/vitamina-d3-importada-10000-iu-120-caps-now-foods"
         }
       ]
     },
