@@ -8,8 +8,8 @@
     "text": "Divida em até 3x sem juros"
   },
   "exchange": {
-    "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": false,
+    "text": ""
   },
   "promo": {
     "show": true,
