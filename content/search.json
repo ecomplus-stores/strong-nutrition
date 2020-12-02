@@ -2,7 +2,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/naoachouprodutotarja.png"
+      "img": "/img/uploads/naoachouprodutotarja.png",
+      "link": "https://api.whatsapp.com/send?phone=5577998048762&text=Oi,%20quero%20saber%20mais%20sobre%20um%20produto"
     },
     {
       "type": "search-engine",
