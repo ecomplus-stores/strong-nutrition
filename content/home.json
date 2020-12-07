@@ -34,13 +34,21 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/dux-1.png",
-      "link": "https://www.strongnutrition.com.br/search?term=dux"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ganhemassacomqualidade.png",
+          "link": "https://www.strongnutrition.com.br/proteinas"
+        },
+        {
+          "img": "/img/uploads/emagrecacomsaude.png",
+          "link": "https://www.strongnutrition.com.br/emagrecedores"
+        },
+        {
+          "img": "/img/uploads/vivamais.png",
+          "link": "https://www.strongnutrition.com.br/saude-e-bem-estar"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
