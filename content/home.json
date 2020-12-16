@@ -7,29 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2020-08-04T02:30:00.000Z",
-          "end": "2021-02-11T17:22:09.079Z",
-          "img": "/img/uploads/true_slim_shape.png",
-          "link": "https://www.strongnutrition.com.br/true-slim-shape-600mg-120caps---true-source"
-        },
-        {
-          "start": "2020-08-20T13:52:59.873Z",
-          "end": "2021-12-30T17:22:17.776Z",
-          "img": "/img/uploads/biotin_bealty_natrol.png",
-          "link": "https://www.strongnutrition.com.br/biotina-beauty-10000-mcg-forca-maxima-100-comprimidos---natrol"
-        },
-        {
-          "start": "2020-07-20T19:04:45.115Z",
-          "end": "2021-05-12T17:22:25.635Z",
-          "img": "/img/uploads/fresh-whey.png",
-          "link": "https://www.strongnutrition.com.br/fresh-whey-900g---dux-nutrition-lab"
-        },
-        {
-          "img": "/img/uploads/naoachouprodutofullbanner-1-1-.png",
-          "link": "https://api.whatsapp.com/send?phone=5577998048762&text=Oi,%20N%C3%A3o%20encontrei%20o%20produto%20que%20procurei",
+          "img": "/img/uploads/bike-1-.jpg",
+          "link": "https://www.strongnutrition.com.br/lipodrene-elite-coca-90-capsulas---hi-tech-pharma",
           "alt": "",
           "start": "2020-04-11T05:54:06.750Z",
-          "end": "2021-03-24T17:22:32.420Z"
+          "end": "2021-03-24T17:22:32.420Z",
+          "mobile_img": "/img/uploads/mano-da-bike-2-1-.png"
         }
       ]
     },
