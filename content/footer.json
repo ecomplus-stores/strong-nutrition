@@ -9,7 +9,7 @@
     "list": []
   },
   "links_2": {
-    "list_categories": false,
+    "list_categories": true,
     "title": "Categorias",
     "list": [
       {
@@ -27,6 +27,10 @@
       {
         "text": "Emagrecedores",
         "url": "https://www.strongnutrition.com.br/emagrecedores"
+      },
+      {
+        "text": "Como dormir melhor",
+        "url": "http://lp.strongnutrition.com.br"
       }
     ]
   },
