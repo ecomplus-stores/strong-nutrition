@@ -33,15 +33,15 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ganhemassacomqualidade.png",
+          "img": "/img/uploads/massa-muscular.png",
           "link": "https://www.strongnutrition.com.br/proteinas"
         },
         {
-          "img": "/img/uploads/emagrecacomsaude.png",
+          "img": "/img/uploads/emagrecedores.png",
           "link": "https://www.strongnutrition.com.br/emagrecedores"
         },
         {
-          "img": "/img/uploads/vivamais.png",
+          "img": "/img/uploads/viva-mais.png",
           "link": "https://www.strongnutrition.com.br/saude-e-bem-estar"
         }
       ]
