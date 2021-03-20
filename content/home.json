@@ -7,12 +7,6 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-03-15T17:42:00.469Z",
-          "end": "2029-07-05T17:42:00.520Z",
-          "img": "/img/uploads/banner-desktop-1-.png",
-          "mobile_img": "/img/uploads/banner-mobile-1-.png"
-        },
-        {
           "img": "/img/uploads/nao-achou-new.png",
           "link": "https://api.whatsapp.com/send?phone=5577998048762&text=Oi,%20quero%20saber%20mais%20sobre%20um%20produto",
           "alt": "",
