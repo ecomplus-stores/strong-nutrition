@@ -12,6 +12,5 @@
   "productDescriptionAppend": "src/append/product-block",
   "productCardSlots": "src/append/product-card-slots",
   "productSlots": "src/append/product-slots",
-  "stampsAppend": "src/append/stamps",
-  "productBlockAppend": "src/append/product-block"
+  "stampsAppend": "src/append/stamps"
 }
