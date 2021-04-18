@@ -7,6 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-04-18T15:32:23.077Z",
+          "end": "2021-04-26T02:36:00.000Z",
+          "img": "/img/uploads/dia-do-amigo.png",
+          "mobile_img": "/img/uploads/dia-do-amigo-mobile.png"
+        },
+        {
           "img": "/img/uploads/nao-achou-new.png",
           "link": "https://api.whatsapp.com/send?phone=5577998048762&text=Oi,%20quero%20saber%20mais%20sobre%20um%20produto",
           "alt": "",
