@@ -7,17 +7,17 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-04-18T15:32:23.077Z",
-          "end": "2021-04-26T02:36:00.000Z",
-          "img": "/img/uploads/dia-do-amigo.png",
-          "mobile_img": "/img/uploads/dia-do-amigo-mobile.png"
+          "start": "2021-05-03T17:55:15.707Z",
+          "end": "2021-05-10T02:59:00.000Z",
+          "img": "/img/uploads/banner_dia_das_maes.png",
+          "mobile_img": "/img/uploads/bannerddm-mobile.png"
         },
         {
           "img": "/img/uploads/nao-achou-new.png",
           "link": "https://api.whatsapp.com/send?phone=5577998048762&text=Oi,%20quero%20saber%20mais%20sobre%20um%20produto",
           "alt": "",
           "start": "2020-04-11T05:54:06.750Z",
-          "end": "2021-03-24T17:22:32.420Z",
+          "end": "2100-03-24T17:22:00.000Z",
           "mobile_img": "/img/uploads/nao-achou-mobile.png"
         },
         {
@@ -28,7 +28,7 @@
         },
         {
           "start": "2020-12-24T14:39:00.000Z",
-          "end": "2021-06-24T14:23:00.000Z",
+          "end": "2021-04-24T14:23:00.000Z",
           "img": "/img/uploads/banner-strong-mobile.jpg",
           "link": "https://www.strongnutrition.com.br/novo-supercoffee-20-380g-caffeinearmy-c590",
           "mobile_img": "/img/uploads/supercoffee-mobile.png"
