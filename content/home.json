@@ -7,12 +7,6 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-05-03T17:55:15.707Z",
-          "end": "2021-05-10T02:59:00.000Z",
-          "img": "/img/uploads/dia-das-maes.png",
-          "mobile_img": "/img/uploads/dia-das-maes-mobile.png"
-        },
-        {
           "img": "/img/uploads/nao-achou-new.png",
           "link": "https://api.whatsapp.com/send?phone=5577998048762&text=Oi,%20quero%20saber%20mais%20sobre%20um%20produto",
           "alt": "",
