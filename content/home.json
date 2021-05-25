@@ -7,6 +7,20 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-05-25T12:52:43.918Z",
+          "end": "2030-03-07T12:52:43.972Z",
+          "img": "/img/uploads/coqueteleira.png",
+          "link": "https://www.strongnutrition.com.br/search?term=supercoffee",
+          "mobile_img": "/img/uploads/tradicional.png"
+        },
+        {
+          "start": "2021-05-25T12:50:24.603Z",
+          "end": "2030-04-11T12:50:24.701Z",
+          "img": "/img/uploads/viseira.png",
+          "link": "https://www.strongnutrition.com.br/search?term=supercoffee",
+          "mobile_img": "/img/uploads/latao.png"
+        },
+        {
           "img": "/img/uploads/nao-achou-new.png",
           "link": "https://api.whatsapp.com/send?phone=5577998048762&text=Oi,%20quero%20saber%20mais%20sobre%20um%20produto",
           "alt": "",
