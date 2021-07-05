@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f3ea2389b22f77ad7cc60b41fbff38fe.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.07c2e41ba484ebb8b0bdc0b517cd942f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.905477dd0f217bcde878adcb6230cf80.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.c39954e0525e1a51b1f7e77e57ea9ee1.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.80687df64fd3f754bd6fa7a512e36526.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Strong Nutrition",
+  "short_name": "Strong Nutrition",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Nutrição Esportiva. Suplementos de qualidade e preços imbatíveis!",
+  "background_color": "#f1f1f1",
+  "theme_color": "#333333"
+}
