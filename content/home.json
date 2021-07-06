@@ -17,8 +17,8 @@
       ]
     },
     {
-      "type": "page-title",
-      "title": "Loja Virtual de Suplementos em Vitória da Conquista"
+      "type": "custom-html",
+      "html": "<h1><center>Loja Virtual de Suplementos em Vitória da Conquista</center></h1>"
     },
     {
       "type": "banners-grid",
