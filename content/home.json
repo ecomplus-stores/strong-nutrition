@@ -38,13 +38,13 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": null,
       "sort": "offers",
       "title": "Ofertas",
-      "link": "ofertas"
+      "link": ""
     },
     {
       "type": "collection-shelf",
