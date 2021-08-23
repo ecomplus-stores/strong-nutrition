@@ -8,7 +8,7 @@
       "slides": [
         {
           "start": "",
-          "end": "",
+          "end": "2021-08-23T12:21:09.940Z",
           "img": "/img/uploads/banner-nutrata.jpg",
           "mobile_img": "/img/uploads/banner-nutrata-mobile.jpg",
           "link": "https://www.strongnutrition.com.br/4b-pre-treino-300g---nutrata"
@@ -19,6 +19,13 @@
           "img": "/img/uploads/nao-achou.png",
           "mobile_img": "/img/uploads/nao-achou-mobile.png",
           "link": "https://web.whatsapp.com/send?phone=%2B5577998048762"
+        },
+        {
+          "start": "2021-08-23T12:20:30.582Z",
+          "end": "2021-09-01T12:07:52.850Z",
+          "img": "/img/uploads/desktop_pretreino.png",
+          "link": "https://www.strongnutrition.com.br/pre-treino",
+          "mobile_img": "/img/uploads/mobile_pretreino.png"
         }
       ]
     },
