@@ -37,16 +37,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/massa-muscular.png",
-          "link": "https://www.strongnutrition.com.br/proteinas"
+          "img": "/img/uploads/mini_iniciantes.png",
+          "link": "https://www.strongnutrition.com.br/pre-treino"
         },
         {
-          "img": "/img/uploads/emagrecedores.png",
-          "link": "https://www.strongnutrition.com.br/emagrecedores"
+          "img": "/img/uploads/mini_intermediario.png",
+          "link": "https://www.strongnutrition.com.br/pre-treino"
         },
         {
-          "img": "/img/uploads/viva-mais.png",
-          "link": "https://www.strongnutrition.com.br/saude-e-bem-estar"
+          "img": "/img/uploads/mini_avancado.png",
+          "link": "https://www.strongnutrition.com.br/pre-treino"
         }
       ]
     },
