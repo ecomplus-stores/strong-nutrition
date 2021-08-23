@@ -30,10 +30,6 @@
       ]
     },
     {
-      "type": "custom-html",
-      "html": "<h1 style=\"font-size:22px;\"><center>Loja Virtual de Suplementos em Vitória da Conquista</center></h1 "
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -101,6 +97,10 @@
       "page": 1,
       "collection_id": "5ef2468614ff772fde7ad463:categories:Saúde e Bem-estar:/saude-e-bem-estar",
       "title": "Vitaminas 💊"
+    },
+    {
+      "type": "custom-html",
+      "html": "<h1 style=\"font-size:22px;\"><center>Loja Virtual de Suplementos em Vitória da Conquista</center></h1 "
     },
     {
       "type": "custom-html",
