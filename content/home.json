@@ -38,19 +38,19 @@
       "banners": [
         {
           "img": "/img/uploads/mini_iniciantes.png",
-          "link": "https://www.strongnutrition.com.br/pre-treino"
+          "link": "https://www.strongnutrition.com.br/iniciante"
         },
         {
           "img": "/img/uploads/mini_intermediario.png",
-          "link": "https://www.strongnutrition.com.br/pre-treino"
+          "link": "https://www.strongnutrition.com.br/intermediario"
         },
         {
           "img": "/img/uploads/mini_avancado.png",
-          "link": "https://www.strongnutrition.com.br/pre-treino"
+          "link": "https://www.strongnutrition.com.br/avancado"
         },
         {
           "img": "/img/uploads/mini_endurance.png",
-          "link": "https://www.strongnutrition.com.br/pre-treino"
+          "link": "https://www.strongnutrition.com.br/endurance"
         }
       ]
     },
