@@ -8,7 +8,7 @@
       "slides": [
         {
           "start": "2021-09-25T02:32:00.000Z",
-          "end": "",
+          "end": "2021-11-03T14:01:18.008Z",
           "img": "/img/uploads/banner-dux.png",
           "mobile_img": "",
           "link": "https://www.strongnutrition.com.br/whey-dux-isolado-900g"
@@ -22,10 +22,17 @@
         },
         {
           "start": "2021-08-23T12:20:30.582Z",
-          "end": "2021-10-30T15:34:00.262Z",
+          "end": "2021-11-03T14:01:09.538Z",
           "img": "/img/uploads/desktop_pretreino.png",
           "link": "https://www.strongnutrition.com.br/pre-treino",
           "mobile_img": "/img/uploads/mobile_pretreino.png"
+        },
+        {
+          "start": "2021-11-03T14:04:11.719Z",
+          "end": "",
+          "img": "/img/uploads/melatonina-desktop.png",
+          "mobile_img": "/img/uploads/melatonina-feed.png",
+          "link": "https://www.strongnutrition.com.br/melatonina-3mg-90-pastilhas---now-foods"
         }
       ]
     },
