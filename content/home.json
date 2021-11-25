@@ -82,20 +82,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/mini_iniciantes.png",
-          "link": "https://www.strongnutrition.com.br/iniciante"
+          "img": "/img/uploads/black.png",
+          "link": "https://www.strongnutrition.com.br/black-friday"
         },
         {
-          "img": "/img/uploads/mini_intermediario.png",
-          "link": "https://www.strongnutrition.com.br/intermediario"
+          "img": "/img/uploads/barrinhas.png",
+          "link": "https://www.strongnutrition.com.br/barra-de-proteinas"
         },
         {
-          "img": "/img/uploads/mini_avancado.png",
-          "link": "https://www.strongnutrition.com.br/avancado"
+          "img": "/img/uploads/melatonina.png",
+          "link": "https://www.strongnutrition.com.br/search?term=melatonina"
         },
         {
-          "img": "/img/uploads/mini_endurance.png",
-          "link": "https://www.strongnutrition.com.br/endurance"
+          "img": "/img/uploads/veganos.png",
+          "link": "https://www.strongnutrition.com.br/search?term=vegan"
         }
       ]
     },
