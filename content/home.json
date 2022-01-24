@@ -26,8 +26,15 @@
           "img": "/img/uploads/melatonina-desktop.png",
           "mobile_img": "/img/uploads/melatonina-feed.png",
           "link": "https://www.strongnutrition.com.br/melatonina-3mg-90-pastilhas---now-foods"
+        },
+        {
+          "start": "2022-01-24T20:17:18.990Z",
+          "end": "2030-12-31T20:17:05.310Z",
+          "img": "/img/uploads/magnesio.png",
+          "link": "https://www.strongnutrition.com.br/magnesioinositolrelief300gtruesource"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "banners-grid",
