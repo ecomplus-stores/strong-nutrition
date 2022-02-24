@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "CUPOM DE PRIMEIRA COMPRA: CD30R",
-    "link": ""
+    "link": "",
+    "background": "#59b946",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [],
