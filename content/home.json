@@ -7,13 +7,6 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2022-03-08T18:50:47.296Z",
-          "end": "",
-          "img": "/img/uploads/dia-da-mulher-desktop.jpg",
-          "mobile_img": "/img/uploads/dia-da-mulher-feed.jpg",
-          "link": "https://www.strongnutrition.com.br/search?term=col%C3%A1geno"
-        },
-        {
           "start": "2022-03-02T13:52:19.210Z",
           "end": "",
           "img": "/img/uploads/tribulus-desktop-site.png",
@@ -47,6 +40,13 @@
           "img": "/img/uploads/d-true-curcuma.png",
           "link": "https://www.strongnutrition.com.br/true-curcuma-60-capsulas",
           "mobile_img": "/img/uploads/m-true-curcuma.png"
+        },
+        {
+          "start": "2022-03-15T14:42:14.161Z",
+          "end": "2022-03-18T03:00:14.194Z",
+          "img": "/img/uploads/consumidor-desktop.jpg",
+          "mobile_img": "/img/uploads/consumidor-feed.jpg",
+          "link": "https://www.strongnutrition.com.br/semana-do-cliente"
         }
       ],
       "full_width": true
