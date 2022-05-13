@@ -7,6 +7,13 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2022-05-13T00:40:54.302Z",
+          "end": "",
+          "img": "/img/uploads/creatina_desktop.jpg",
+          "mobile_img": "/img/uploads/creatina_mobile.jpg",
+          "link": "https://www.strongnutrition.com.br/search?term=creapure"
+        },
+        {
           "start": "2022-03-15T14:42:14.161Z",
           "end": "2022-03-18T03:00:14.194Z",
           "img": "/img/uploads/consumidor-desktop.jpg",
