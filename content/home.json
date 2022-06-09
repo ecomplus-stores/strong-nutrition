@@ -82,14 +82,6 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": null,
-      "sort": "sales",
-      "title": "Mais vendidos 👌",
-      "link": "https://www.strongnutrition.com.br/search?sort=sales"
-    },
-    {
-      "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
       "page": "",
@@ -97,6 +89,22 @@
       "sort": "offers",
       "title": "Ofertas",
       "link": "https://www.strongnutrition.com.br/search?sort=offers"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62a24c822ebea30633ee82c2:collections:Frete Grátis:/frete-gratis",
+      "title": "Frete Grátis 🚚"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "collection_id": null,
+      "sort": "sales",
+      "title": "Mais vendidos 👌",
+      "link": "https://www.strongnutrition.com.br/search?sort=sales"
     },
     {
       "type": "collection-shelf",
