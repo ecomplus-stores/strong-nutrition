@@ -7,6 +7,10 @@
   "meta_description": "Você sabe quais os efeitos colaterais da Cafeína? Venha conferir agora. A cafeína é um suplemento muito estudado no âmbito esportivo e que tem efeitos ergogênicos comprovados, ou seja, ela melhora a sua performance e o seu rendimento no treino.",
   "sections": [
     {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
