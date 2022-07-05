@@ -6,6 +6,10 @@
   "meta_description": "Você já ouviu falar na maca peruana? Apresenta vários benefícios para a saúde como aumento do libido, ajuda a emagrecer, previne a osteoporose, combate a diabetes entre outros benefícios. Clique aqui e saiba mais.",
   "sections": [
     {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
