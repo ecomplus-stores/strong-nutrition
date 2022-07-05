@@ -8,6 +8,10 @@
   "thumbnail": "/img/uploads/foto-blog.jpg",
   "sections": [
     {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
