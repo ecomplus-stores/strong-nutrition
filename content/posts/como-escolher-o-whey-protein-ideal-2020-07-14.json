@@ -5,5 +5,15 @@
   "description": "O Whey Protein é o suplemento mais popular entre os praticantes de atividade física. No entanto, muitos ainda não sabem como escolher o Whey Protein ideal para sua necessidade...",
   "meta_description": "O Whey Protein é o suplemento mais popular entre os praticantes de atividade física. No entanto, muitos ainda não sabem como escolher o Whey Protein ideal para sua necessidade...",
   "meta_title": "Como escolher o Whey Protein ideal?",
-  "thumbnail": "/img/uploads/foto-blog.jpg"
+  "thumbnail": "/img/uploads/foto-blog.jpg",
+  "sections": [
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "60e4b173ca0b8f794e509c69:collections:Proteínas 💪:/proteinas-",
+      "title": "Selecionamos as melhores Proteínas para você"
+    }
+  ]
 }
