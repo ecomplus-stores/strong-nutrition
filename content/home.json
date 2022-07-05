@@ -7,11 +7,11 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2022-06-20T18:35:06.390Z",
-          "end": "2022-07-05T20:38:31.907Z",
-          "img": "/img/uploads/dhea-dynamic-formulas-desktop.png",
-          "mobile_img": "/img/uploads/dhea-dynamic-formulas-feed.png",
-          "link": "https://www.strongnutrition.com.br/frete-gratis"
+          "start": "2022-06-22T22:05:30.247Z",
+          "end": "",
+          "img": "/img/uploads/d-z2.png",
+          "link": "https://www.strongnutrition.com.br/z2--25-unidades",
+          "mobile_img": "/img/uploads/m-z2.png"
         },
         {
           "start": "2022-05-13T00:40:54.302Z",
@@ -19,13 +19,6 @@
           "img": "/img/uploads/creatina_desktop.jpg",
           "mobile_img": "/img/uploads/creatina_mobile.jpg",
           "link": "https://www.strongnutrition.com.br/search?term=creapure"
-        },
-        {
-          "start": "2022-03-15T14:42:14.161Z",
-          "end": "2022-03-18T03:00:14.194Z",
-          "img": "/img/uploads/consumidor-desktop.jpg",
-          "mobile_img": "/img/uploads/consumidor-feed.jpg",
-          "link": "https://www.strongnutrition.com.br/semana-do-cliente"
         },
         {
           "start": "2021-11-03T14:04:11.719Z",
@@ -49,11 +42,18 @@
           "mobile_img": "/img/uploads/m-true-curcuma.png"
         },
         {
-          "start": "2022-06-22T22:05:30.247Z",
-          "end": "",
-          "img": "/img/uploads/d-z2.png",
-          "link": "https://www.strongnutrition.com.br/z2--25-unidades",
-          "mobile_img": "/img/uploads/m-z2.png"
+          "start": "2022-03-15T14:42:14.161Z",
+          "end": "2022-03-18T03:00:14.194Z",
+          "img": "/img/uploads/consumidor-desktop.jpg",
+          "mobile_img": "/img/uploads/consumidor-feed.jpg",
+          "link": "https://www.strongnutrition.com.br/semana-do-cliente"
+        },
+        {
+          "start": "2022-06-20T18:35:06.390Z",
+          "end": "2022-07-05T20:38:31.907Z",
+          "img": "/img/uploads/dhea-dynamic-formulas-desktop.png",
+          "mobile_img": "/img/uploads/dhea-dynamic-formulas-feed.png",
+          "link": "https://www.strongnutrition.com.br/frete-gratis"
         }
       ],
       "full_width": true
