@@ -47,6 +47,13 @@
           "img": "/img/uploads/consumidor-desktop.jpg",
           "mobile_img": "/img/uploads/consumidor-feed.jpg",
           "link": "https://www.strongnutrition.com.br/semana-do-cliente"
+        },
+        {
+          "start": "2022-07-07T17:13:42.085Z",
+          "end": "",
+          "img": "/img/uploads/d-kit-max.png",
+          "link": "https://www.strongnutrition.com.br/kit-promocional-probiot-c160",
+          "mobile_img": "/img/uploads/m-kit-max.png"
         }
       ],
       "full_width": true
