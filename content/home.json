@@ -7,11 +7,18 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2022-06-22T22:05:30.247Z",
+          "start": "2022-07-07T17:55:34.606Z",
           "end": "",
-          "img": "/img/uploads/d-z2.png",
-          "link": "https://www.strongnutrition.com.br/z2--25-unidades",
-          "mobile_img": "/img/uploads/m-z2.png"
+          "img": "/img/uploads/d-kit-max.png",
+          "link": "https://www.strongnutrition.com.br/kit-promocional-probiot-c160",
+          "mobile_img": "/img/uploads/m-kit-max.png"
+        },
+        {
+          "start": "2022-07-07T17:55:54.239Z",
+          "end": "",
+          "img": "/img/uploads/d-kit-pure.png",
+          "link": "https://www.strongnutrition.com.br/kit-promocional-probiot",
+          "mobile_img": "/img/uploads/m-kit-pure.png"
         },
         {
           "start": "2022-05-13T00:40:54.302Z",
@@ -19,6 +26,13 @@
           "img": "/img/uploads/creatina_desktop.jpg",
           "mobile_img": "/img/uploads/creatina_mobile.jpg",
           "link": "https://www.strongnutrition.com.br/search?term=creapure"
+        },
+        {
+          "start": "2022-06-22T22:05:30.247Z",
+          "end": "",
+          "img": "/img/uploads/d-z2.png",
+          "link": "https://www.strongnutrition.com.br/z2--25-unidades",
+          "mobile_img": "/img/uploads/m-z2.png"
         },
         {
           "start": "2021-11-03T14:04:11.719Z",
@@ -47,20 +61,6 @@
           "img": "/img/uploads/consumidor-desktop.jpg",
           "mobile_img": "/img/uploads/consumidor-feed.jpg",
           "link": "https://www.strongnutrition.com.br/semana-do-cliente"
-        },
-        {
-          "start": "2022-07-07T17:55:34.606Z",
-          "end": "",
-          "img": "/img/uploads/d-kit-max.png",
-          "link": "https://www.strongnutrition.com.br/kit-promocional-probiot-c160",
-          "mobile_img": "/img/uploads/m-kit-max.png"
-        },
-        {
-          "start": "2022-07-07T17:55:54.239Z",
-          "end": "",
-          "img": "/img/uploads/d-kit-pure.png",
-          "link": "https://www.strongnutrition.com.br/kit-promocional-probiot",
-          "mobile_img": "/img/uploads/m-kit-pure.png"
         }
       ],
       "full_width": true
