@@ -7,6 +7,13 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2022-08-04T18:00:58.394Z",
+          "end": "",
+          "img": "/img/uploads/horus-desktop.png",
+          "mobile_img": "/img/uploads/horus-mobile.png",
+          "link": "https://www.strongnutrition.com.br/pre-treino-horus-300g---max-titanium"
+        },
+        {
           "start": "2022-07-13T16:06:19.411Z",
           "end": "",
           "img": "/img/uploads/melatonina-frete-gratis-desktop.jpg",
@@ -47,13 +54,6 @@
           "img": "/img/uploads/melatonina-desktop.png",
           "mobile_img": "/img/uploads/melatonina-feed.png",
           "link": "https://www.strongnutrition.com.br/melatonina-3mg-90-pastilhas---now-foods"
-        },
-        {
-          "start": "2022-08-04T18:00:58.394Z",
-          "end": "2022-08-04T18:00:58.438Z",
-          "img": "/img/uploads/horus-desktop.png",
-          "mobile_img": "/img/uploads/horus-mobile.png",
-          "link": "https://www.strongnutrition.com.br/pre-treino-horus-300g---max-titanium"
         }
       ],
       "full_width": true
