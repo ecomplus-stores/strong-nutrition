@@ -18,7 +18,8 @@
       "/emagrecedores?Emagrecedores",
       "/saude-e-bem-estar?Saúde e Bem-estar",
       "/aminoacidos?Aminoácidos",
-      "/outros?Outros"
+      "/outros?Outros",
+      "/carboidratos?Carboidratos"
     ],
     "random": 0,
     "full_width": true
