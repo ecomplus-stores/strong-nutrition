@@ -7,6 +7,20 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2022-11-04T12:23:57.151Z",
+          "end": "",
+          "img": "/img/uploads/artboard-1.png",
+          "link": "https://www.strongnutrition.com.br/pages/lp-black-friday",
+          "mobile_img": "/img/uploads/artboard-2.png"
+        },
+        {
+          "start": "2021-11-03T14:04:11.719Z",
+          "end": "",
+          "img": "/img/uploads/melatonina-desktop.png",
+          "mobile_img": "/img/uploads/melatonina-feed.png",
+          "link": "https://www.strongnutrition.com.br/melatonina-3mg-90-pastilhas---now-foods"
+        },
+        {
           "start": "2022-07-26T18:08:40.430Z",
           "end": "2022-11-01T04:35:42.175Z",
           "img": "/img/uploads/1920-combo-black-skull-1-.png",
@@ -19,20 +33,6 @@
           "img": "/img/uploads/1920-combo-ftw-1-.png",
           "mobile_img": "/img/uploads/1080-combo-ftw-1-.png",
           "link": "https://www.strongnutrition.com.br/combo-promocional-proteina-concentrada-100-whey-2-refis-900g---ftw"
-        },
-        {
-          "start": "2021-11-03T14:04:11.719Z",
-          "end": "",
-          "img": "/img/uploads/melatonina-desktop.png",
-          "mobile_img": "/img/uploads/melatonina-feed.png",
-          "link": "https://www.strongnutrition.com.br/melatonina-3mg-90-pastilhas---now-foods"
-        },
-        {
-          "start": "2022-11-04T12:23:57.151Z",
-          "end": "",
-          "img": "/img/uploads/artboard-1.png",
-          "link": "https://www.strongnutrition.com.br/pages/lp-black-friday",
-          "mobile_img": "/img/uploads/artboard-2.png"
         }
       ],
       "full_width": true
