@@ -26,6 +26,13 @@
           "img": "/img/uploads/melatonina-desktop.png",
           "mobile_img": "/img/uploads/melatonina-feed.png",
           "link": "https://www.strongnutrition.com.br/melatonina-3mg-90-pastilhas---now-foods"
+        },
+        {
+          "start": "2022-11-04T12:00:59.074Z",
+          "end": "",
+          "img": "/img/uploads/artboard-1.png",
+          "link": "https://www.strongnutrition.com.br/pages/lp-black-friday",
+          "mobile_img": "/img/uploads/artboard-2.png"
         }
       ],
       "full_width": true
