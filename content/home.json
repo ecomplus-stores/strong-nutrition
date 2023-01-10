@@ -32,7 +32,8 @@
           "end": "",
           "img": "/img/uploads/banner-site-adaptogen.png",
           "link": "https://www.strongnutrition.com.br/search?term=adaptogen",
-          "alt": "Semana Adaptogen"
+          "alt": "Semana Adaptogen",
+          "mobile_img": "/img/uploads/banner-mobile-adaptogen.png"
         }
       ],
       "full_width": true
