@@ -120,13 +120,9 @@
       "title": "Vitaminas 💊"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-site-whatsapp.png",
-          "link": "https://api.whatsapp.com/send?phone=5577998048762&text=Oi,%20atendimento%20de%20seg%20a%20sex%20das%209:00hrs%20%C3%A0s%2018:00hrs.%20Posso%20ajudar?"
-        }
-      ]
+      "type": "responsive-banner",
+      "link": "https://api.whatsapp.com/send?phone=5577998048762&text=Oi,%20atendimento%20de%20seg%20a%20sex%20das%209:00hrs%20%C3%A0s%2018:00hrs.%20Posso%20ajudar?",
+      "img": "/img/uploads/banner-site-whatsapp.png"
     },
     {
       "type": "custom-html",
