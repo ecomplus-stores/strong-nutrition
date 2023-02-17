@@ -7,6 +7,13 @@
       "autoplay": 5000,
       "slides": [
         {
+          "start": "2023-02-18T03:24:00.000Z",
+          "end": "",
+          "link": "https://www.strongnutrition.com.br/search?term=",
+          "img": "/img/uploads/banner-desktop-carnaval1.png",
+          "mobile_img": "/img/uploads/banner-mobile-carnaval.png"
+        },
+        {
           "start": "2023-01-10T18:06:27.077Z",
           "end": "",
           "img": "/img/uploads/banner-site-adaptogen.png",
