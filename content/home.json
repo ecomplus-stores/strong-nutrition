@@ -7,6 +7,13 @@
       "autoplay": 5000,
       "slides": [
         {
+          "start": "2023-03-15T13:26:56.801Z",
+          "end": "2023-03-18T03:00:00.000Z",
+          "img": "/img/uploads/desktop-semana-do-consumidor.png",
+          "mobile_img": "/img/uploads/mobile-semana-do-consumidor.png",
+          "link": "https://www.strongnutrition.com.br/search?term="
+        },
+        {
           "start": "2023-01-10T18:06:27.077Z",
           "end": "",
           "img": "/img/uploads/banner-site-adaptogen.png",
