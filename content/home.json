@@ -27,14 +27,6 @@
           "link": "https://www.strongnutrition.com.br/search?term=adaptogen",
           "alt": "Semana Adaptogen",
           "mobile_img": "/img/uploads/banner-mobile-adaptogen.png"
-        },
-        {
-          "start": "2023-02-08T19:18:09.915Z",
-          "end": "",
-          "img": "/img/uploads/banner-dux-desktop-min.png",
-          "link": "https://www.strongnutrition.com.br/search?term=dux",
-          "alt": "Linha Dux",
-          "mobile_img": "/img/uploads/banner-dux-mobile-min.png"
         }
       ],
       "full_width": true
