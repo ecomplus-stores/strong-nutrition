@@ -1,18 +1,21 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "*Frete Grátis Bahia"
   },
   "installments": {
     "show": true,
-    "text": "Divida em até 3x sem juros"
+    "text": "Divida em até 3x sem juros",
+    "title": "Parcele suas compras"
   },
   "exchange": {
-    "show": false,
-    "text": ""
+    "show": true,
+    "text": "Tire suas dúvidas via WhatsApp",
+    "title": "Fale com Peu"
   },
   "promo": {
     "show": true,
-    "text": "10% de DESCONTO à vista"
+    "text": "Nas compras via Pix",
+    "title": "10% DE DESCONTO"
   }
 }
