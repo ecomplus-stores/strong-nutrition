@@ -1,7 +1,8 @@
 {
   "shipping": {
-    "show": false,
-    "text": "*Frete Grátis Bahia"
+    "show": true,
+    "text": "Em Vitória da Conquista",
+    "title": "ENTREGAS EM ATÉ 24H"
   },
   "installments": {
     "show": true,
