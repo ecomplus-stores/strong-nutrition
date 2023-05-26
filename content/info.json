@@ -5,13 +5,13 @@
   },
   "installments": {
     "show": true,
-    "text": "Divida em até 3x sem juros",
-    "title": "Parcele suas compras"
+    "text": "Divida em até 3x no cartão",
+    "title": "PARCELE SEM JUROS"
   },
   "exchange": {
     "show": true,
     "text": "Tire suas dúvidas via WhatsApp",
-    "title": "Fale com Peu"
+    "title": "FALE COM PEU"
   },
   "promo": {
     "show": true,
