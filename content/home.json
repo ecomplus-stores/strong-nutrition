@@ -33,6 +33,13 @@
           "end": "",
           "img": "/img/uploads/nova-dimensao.jpg",
           "mobile_img": "/img/uploads/vive-o-esporte-mob.jpg"
+        },
+        {
+          "start": "2023-06-05T20:12:58.380Z",
+          "end": "2023-06-13T02:55:00.000Z",
+          "img": "/img/uploads/banner-full-dia-dos-namorados_.png",
+          "link": "https://www.strongnutrition.com.br/kit-promocional-drpeanut-03-unidades---dr-peanut",
+          "mobile_img": "/img/uploads/banner-mobile-dia-dos-namorados_.png"
         }
       ],
       "full_width": true
