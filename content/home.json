@@ -48,21 +48,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/melatonina.png",
-          "link": "https://www.strongnutrition.com.br/melatonina-comprar"
+          "img": "/img/uploads/mini_creatinas.jpg",
+          "link": "https://www.strongnutrition.com.br/categoria/creatina"
         },
         {
-          "img": "/img/uploads/creatinas.png",
-          "link": "https://www.strongnutrition.com.br/search?term=creatina"
+          "img": "/img/uploads/mini_melatoninas.jpg",
+          "link": "https://www.strongnutrition.com.br/search?term=melatonina"
         },
         {
-          "img": "/img/uploads/mini-banner-dhea.png",
-          "link": "https://www.strongnutrition.com.br/saude-e-bem-estar"
-        },
-        {
-          "img": "/img/uploads/mini-banner-importados.png",
-          "link": "https://www.strongnutrition.com.br/importados",
-          "mobile_img": ""
+          "img": "/img/uploads/mini_dhea.jpg",
+          "link": "https://www.strongnutrition.com.br/search?term=dhea"
         }
       ]
     },
