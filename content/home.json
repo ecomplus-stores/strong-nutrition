@@ -7,31 +7,9 @@
       "autoplay": 5000,
       "slides": [
         {
-          "start": "2023-05-04T13:17:18.223Z",
-          "end": "2023-05-25T20:28:23.016Z",
-          "img": "/img/uploads/desktop-delicious-coffee-1-.png",
-          "link": "https://www.strongnutrition.com.br/delicious-coffee-300g--delicious-coffee-100g---ftw",
-          "mobile_img": "/img/uploads/mobile-delicious-coffee-1-.png"
-        },
-        {
-          "start": "2023-03-17T20:35:07.528Z",
-          "end": "2023-05-25T20:28:06.194Z",
-          "img": "/img/uploads/desktop-creapure.png",
-          "mobile_img": "/img/uploads/mobile-creapure.png",
-          "link": "https://www.strongnutrition.com.br/search?term=creapure"
-        },
-        {
-          "start": "2023-01-10T18:06:27.077Z",
-          "end": "2023-05-25T20:28:13.301Z",
-          "img": "/img/uploads/banner-site-adaptogen.png",
-          "link": "https://www.strongnutrition.com.br/search?term=adaptogen",
-          "alt": "Semana Adaptogen",
-          "mobile_img": "/img/uploads/banner-mobile-adaptogen.png"
-        },
-        {
           "start": "2023-05-25T20:28:34.202Z",
           "end": "",
-          "img": "/img/uploads/nova-dimensao.jpg",
+          "img": "/img/uploads/vive-o-esporte-dsk.jpg",
           "mobile_img": "/img/uploads/vive-o-esporte-mob.jpg"
         },
         {
