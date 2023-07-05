@@ -53,14 +53,6 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "629a6477ac0cb4200f003a35:categories:Melatonina:/melatonina-comprar",
-      "title": "Melatoninas 😴"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
       "collection_id": null,
       "sort": "sales",
       "title": "Mais vendidos 👌",
