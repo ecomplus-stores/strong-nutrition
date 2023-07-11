@@ -19,15 +19,15 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/mini_creatinas.jpg",
+          "img": "/img/uploads/mini_creatinas.webp",
           "link": "https://www.strongnutrition.com.br/categoria/creatina"
         },
         {
-          "img": "/img/uploads/mini_melatoninas.jpg",
+          "img": "/img/uploads/mini_melatoninas.webp",
           "link": "https://www.strongnutrition.com.br/search?term=melatonina"
         },
         {
-          "img": "/img/uploads/mini_dhea.jpg",
+          "img": "/img/uploads/mini_dhea.webp",
           "link": "https://www.strongnutrition.com.br/search?term=dhea"
         }
       ]
