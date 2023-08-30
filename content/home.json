@@ -18,12 +18,6 @@
       "full_width": true
     },
     {
-      "type": "brands-carousel",
-      "limit": 12,
-      "offset": 0,
-      "sort": null
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -100,10 +94,6 @@
       "link": "https://api.whatsapp.com/send?phone=5577998048762&text=Oi,%20atendimento%20de%20seg%20a%20sex%20das%209:00hrs%20%C3%A0s%2018:00hrs.%20Posso%20ajudar?",
       "img": "/img/uploads/banner-site-whatsapp-1-.png",
       "mobile_img": "/img/uploads/banner-site-whatsapp-1-.png"
-    },
-    {
-      "type": "custom-html",
-      "html": "<H2 style=\"text-align: center\"><a href=\"/blog\">Confira nosso Blog:</a></H2>\n<div class=\"blog my-4 my-lg-5\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col col-md-6 col-lg-4\">\n                <div class=\"card\"><a href=\"/posts/3-passos-para-ganho-de-massa-muscular-2020-07-24\"><img\n                            src=\"https://www.strongnutrition.com.br/img/uploads/definicao.jpg\" class=\"card-img-top\" alt=\"Como tratar o esgotamento físico e mental\"></a>\n                    <div class=\"card-body\">\n                        <h5 class=\"card-title\"><a href=\"/posts/3-passos-para-ganho-de-massa-muscular-2020-07-24\">3 Passos Para o Ganho de Massa Muscular</a></h5>\n                        <p class=\"card-text\"></p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col col-md-6 col-lg-4\">\n                <div class=\"card\"><a href=\"/posts/como-escolher-o-whey-protein-ideal-2020-07-14\"><img src=\"https://www.strongnutrition.com.br/img/uploads/foto-blog.jpg\"\n                            class=\"card-img-top\" alt=\"Como Escolher o Whey Protein Ideal\"></a>\n                    <div class=\"card-body\">\n                        <h5 class=\"card-title\"><a href=\"/posts/como-escolher-o-whey-protein-ideal-2020-07-14\">Como Escolher o Whey Protein Ideal</a></h5>\n                        <p class=\"card-text\"></p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col col-md-6 col-lg-4\">\n                <div class=\"card\"><a href=\"/posts/creatina-para-que-serve-2020-07-29\"><img src=\"https://www.strongnutrition.com.br/img/uploads/creatina.jpg\"\n                            class=\"card-img-top\" alt=\"Creatina para que serve\"></a>\n                    <div class=\"card-body\">\n                        <h5 class=\"card-title\"><a href=\"/posts/creatina-para-que-serve-2020-07-29\">Creatina, para que serve?</a></h5>\n                        <p class=\"card-text\"></p>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>\n<center><a href=\"/blog\"><button type=\"button\" class=\"btn btn-primary btn-block\"><!----> Ver todos os posts </button></a></center>\n</br>"
     },
     {
       "type": "custom-html",
