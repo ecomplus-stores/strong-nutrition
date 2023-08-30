@@ -18,6 +18,12 @@
       "full_width": true
     },
     {
+      "type": "brands-carousel",
+      "limit": 12,
+      "offset": 0,
+      "sort": null
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -94,12 +100,6 @@
       "link": "https://api.whatsapp.com/send?phone=5577998048762&text=Oi,%20atendimento%20de%20seg%20a%20sex%20das%209:00hrs%20%C3%A0s%2018:00hrs.%20Posso%20ajudar?",
       "img": "/img/uploads/banner-site-whatsapp-1-.png",
       "mobile_img": "/img/uploads/banner-site-whatsapp-1-.png"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 12,
-      "offset": 0,
-      "sort": null
     },
     {
       "type": "custom-html",
