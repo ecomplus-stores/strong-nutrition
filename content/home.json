@@ -13,6 +13,13 @@
           "mobile_img": "/img/uploads/vive-o-esporte-mob.webp",
           "alt": "PEU",
           "link": "https://www.strongnutrition.com.br/pages/sobre-nos"
+        },
+        {
+          "start": "2023-09-27T19:59:01.285Z",
+          "end": "",
+          "img": "/img/uploads/cupom-dux-desktop.png",
+          "link": "https://www.strongnutrition.com.br/proteinas",
+          "mobile_img": "/img/uploads/cupom-dux-mobile-min.png"
         }
       ],
       "full_width": true
