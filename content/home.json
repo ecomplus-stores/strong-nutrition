@@ -12,6 +12,13 @@
           "img": "/img/uploads/cupom-dux-desktop.png",
           "link": "https://www.strongnutrition.com.br/proteinas",
           "mobile_img": "/img/uploads/cupom-dux-mobile-min.png"
+        },
+        {
+          "start": "2023-11-01T14:19:11.232Z",
+          "end": "",
+          "img": "/img/uploads/desktop-black-friday-2023-min.png",
+          "mobile_img": "/img/uploads/mobile-black-friday-2023-min.png",
+          "link": "https://www.strongnutrition.com.br/proteinas"
         }
       ],
       "full_width": true
