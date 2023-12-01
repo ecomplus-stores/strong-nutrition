@@ -5,7 +5,15 @@
     {
       "type": "banner-slider",
       "autoplay": 5000,
-      "slides": [],
+      "slides": [
+        {
+          "start": "2023-12-01T12:38:50.740Z",
+          "end": "",
+          "img": "/img/uploads/vive-o-esporte-dsk.webp",
+          "mobile_img": "/img/uploads/vive-o-esporte-mob.webp",
+          "link": "https://www.strongnutrition.com.br/proteinas"
+        }
+      ],
       "full_width": true
     },
     {
