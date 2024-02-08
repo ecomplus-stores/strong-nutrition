@@ -12,6 +12,13 @@
           "img": "/img/uploads/vive-o-esporte-dsk.webp",
           "mobile_img": "/img/uploads/vive-o-esporte-mob.webp",
           "link": "https://www.strongnutrition.com.br/pages/sobre-nos"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/cupom-dux-desktop.webp",
+          "mobile_img": "/img/uploads/cupom-dux-mobile.webp",
+          "link": "https://www.strongnutrition.com.br/search?term=dux+whey"
         }
       ],
       "full_width": true
