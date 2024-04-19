@@ -7,11 +7,11 @@
       "autoplay": 5000,
       "slides": [
         {
-          "start": "2023-12-01T12:38:50.740Z",
+          "start": "2024-04-19T13:21:27.238Z",
           "end": "",
-          "img": "/img/uploads/vive-o-esporte-dsk.webp",
-          "mobile_img": "/img/uploads/vive-o-esporte-mob.webp",
-          "link": "https://www.strongnutrition.com.br/pages/sobre-nos"
+          "img": "/img/uploads/desktop_-grupo-vip.webp",
+          "link": "https://chat.whatsapp.com/KmSeKL9KfGF9hs8bmB3I3y?fbclid=PAAaY_rAMc6oyh5uh-BZ3OnLDYSLkA2AJXYfxj5UYa4izLCn6GmlCPfcr1_V0&utm_source=banner&utm_medium=banner&utm_campaign=banner_site_grupovip",
+          "mobile_img": "/img/uploads/mobile_-grupo-vip-min.webp"
         },
         {
           "start": "",
@@ -21,11 +21,11 @@
           "link": "https://www.strongnutrition.com.br/search?term=dux+whey"
         },
         {
-          "start": "2024-04-19T13:21:27.238Z",
+          "start": "2023-12-01T12:38:50.740Z",
           "end": "",
-          "img": "/img/uploads/desktop_-grupo-vip.webp",
-          "link": "https://chat.whatsapp.com/KmSeKL9KfGF9hs8bmB3I3y?fbclid=PAAaY_rAMc6oyh5uh-BZ3OnLDYSLkA2AJXYfxj5UYa4izLCn6GmlCPfcr1_V0&utm_source=banner&utm_medium=banner&utm_campaign=banner_site_grupovip",
-          "mobile_img": "/img/uploads/mobile_-grupo-vip-min.webp"
+          "img": "/img/uploads/vive-o-esporte-dsk.webp",
+          "mobile_img": "/img/uploads/vive-o-esporte-mob.webp",
+          "link": "https://www.strongnutrition.com.br/pages/sobre-nos"
         }
       ],
       "full_width": true
