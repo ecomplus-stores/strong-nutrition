@@ -19,6 +19,13 @@
           "img": "/img/uploads/vive-o-esporte-dsk.webp",
           "mobile_img": "/img/uploads/vive-o-esporte-mob.webp",
           "link": "https://www.strongnutrition.com.br/pages/sobre-nos"
+        },
+        {
+          "start": "2024-05-20T20:40:00.855Z",
+          "end": "",
+          "img": "/img/uploads/desktop_-pre-treino.webp",
+          "mobile_img": "/img/uploads/mobile_-pre-treino.webp",
+          "link": "https://www.strongnutrition.com.br/pre-treino"
         }
       ],
       "full_width": true
