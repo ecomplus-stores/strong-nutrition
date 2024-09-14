@@ -26,6 +26,13 @@
           "img": "/img/uploads/vive-o-esporte-dsk.webp",
           "mobile_img": "/img/uploads/vive-o-esporte-mob.webp",
           "link": "https://www.strongnutrition.com.br/pages/sobre-nos"
+        },
+        {
+          "start": "2024-09-14T13:06:14.170Z",
+          "end": "",
+          "img": "/img/uploads/desktop-semana-do-cliente.webp",
+          "link": "https://www.strongnutrition.com.br/search?term=",
+          "mobile_img": "/img/uploads/mobile-semana-do-cliente-min.webp"
         }
       ],
       "full_width": true
