@@ -40,6 +40,13 @@
           "img": "/img/uploads/vive-o-esporte-dsk.webp",
           "mobile_img": "/img/uploads/vive-o-esporte-mob.webp",
           "link": "https://www.strongnutrition.com.br/pages/sobre-nos"
+        },
+        {
+          "start": "2024-11-08T18:00:31.917Z",
+          "end": "",
+          "img": "/img/uploads/black-skul-desktop.webp",
+          "link": "https://www.strongnutrition.com.br/whey-3hd-black-skull-900g?variation_id=142950163517117049100004",
+          "mobile_img": "/img/uploads/black-skull-mobile.webp"
         }
       ],
       "full_width": true
