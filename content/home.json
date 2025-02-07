@@ -7,6 +7,20 @@
       "autoplay": 5000,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "link": "https://www.strongnutrition.com.br/3-unidades---whey-100-hd-refil-900g-black-skull",
+          "img": "/img/uploads/desktop-promo-de-verao-_whey-100_hd_.webp",
+          "mobile_img": "/img/uploads/mobile-promo-de-verao-_whey100_-hd_.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desktop-promo-de-verao-_iso-whey_.webp",
+          "link": "https://www.strongnutrition.com.br/whey-protein-isolado-isowhey-900g---max-titanium",
+          "mobile_img": "/img/uploads/mobile-promo-de-verao-_iso-whey_.webp"
+        },
+        {
           "start": "2024-10-07T13:54:13.992Z",
           "end": "",
           "img": "/img/uploads/desktop_-suplementacao-rafa.webp",
@@ -40,13 +54,6 @@
           "img": "/img/uploads/vive-o-esporte-dsk.webp",
           "mobile_img": "/img/uploads/vive-o-esporte-mob.webp",
           "link": "https://www.strongnutrition.com.br/pages/sobre-nos"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/desktop-promo-de-verao-_iso-whey_.webp",
-          "link": "https://www.strongnutrition.com.br/whey-protein-isolado-isowhey-900g---max-titanium",
-          "mobile_img": "/img/uploads/mobile-promo-de-verao-_iso-whey_.webp"
         }
       ],
       "full_width": true
