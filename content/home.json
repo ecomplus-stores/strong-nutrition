@@ -40,6 +40,13 @@
           "img": "/img/uploads/vive-o-esporte-dsk.webp",
           "mobile_img": "/img/uploads/vive-o-esporte-mob.webp",
           "link": "https://www.strongnutrition.com.br/pages/sobre-nos"
+        },
+        {
+          "start": "2025-04-02T14:19:54.373Z",
+          "end": "2025-05-01T02:59:00.000Z",
+          "img": "/img/uploads/desktop-pascoa.webp",
+          "link": "https://www.strongnutrition.com.br/pasta-de-amendoim-500g-drpeanut?variation_id=389250171864928121400004",
+          "mobile_img": "/img/uploads/mobilepascoa-min.webp"
         }
       ],
       "full_width": true
