@@ -40,6 +40,13 @@
           "img": "/img/uploads/vive-o-esporte-dsk.webp",
           "mobile_img": "/img/uploads/vive-o-esporte-mob.webp",
           "link": "https://www.strongnutrition.com.br/pages/sobre-nos"
+        },
+        {
+          "start": "2025-05-05T11:04:29.557Z",
+          "end": "",
+          "img": "/img/uploads/desktop_-dia-das-maes.webp",
+          "link": "https://www.strongnutrition.com.br/supercoffee-380g---caffeinearmy",
+          "mobile_img": "/img/uploads/mobile_-dia-das-maes.webp"
         }
       ],
       "full_width": true
