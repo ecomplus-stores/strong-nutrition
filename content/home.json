@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 5000,
+      "autoplay": 13000,
       "slides": [
         {
           "start": "2024-10-07T13:54:13.992Z",
@@ -40,6 +40,13 @@
           "img": "/img/uploads/vive-o-esporte-dsk.webp",
           "mobile_img": "/img/uploads/vive-o-esporte-mob.webp",
           "link": "https://www.strongnutrition.com.br/pages/sobre-nos"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desktop-semana-do-consumidor.png",
+          "link": "https://www.strongnutrition.com.br/search?term=",
+          "mobile_img": "/img/uploads/mobile-semana-do-consumidor.png"
         }
       ],
       "full_width": true
