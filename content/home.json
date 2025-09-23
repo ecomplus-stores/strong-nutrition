@@ -7,6 +7,13 @@
       "autoplay": 13000,
       "slides": [
         {
+          "start": "2024-04-19T13:00:27.238Z",
+          "end": "2025-04-01T13:24:49.328Z",
+          "img": "/img/uploads/desktop_-grupo-vip.webp",
+          "link": "https://chat.whatsapp.com/Efh2qy5HFR4Dg3WJaSbkBW",
+          "mobile_img": "/img/uploads/mobile_-grupo-vip-min-_1_.webp"
+        },
+        {
           "start": "2024-10-07T13:54:13.992Z",
           "end": "",
           "img": "/img/uploads/desktop_-suplementacao-rafa.webp",
@@ -21,13 +28,6 @@
           "mobile_img": "/img/uploads/mobile_-suplementacao-peu.webp"
         },
         {
-          "start": "2024-04-19T13:00:27.238Z",
-          "end": "2025-04-01T13:24:49.328Z",
-          "img": "/img/uploads/desktop_-grupo-vip.webp",
-          "link": "https://chat.whatsapp.com/Efh2qy5HFR4Dg3WJaSbkBW",
-          "mobile_img": "/img/uploads/mobile_-grupo-vip-min-_1_.webp"
-        },
-        {
           "start": "2024-07-15T11:10:27.079Z",
           "end": "",
           "img": "/img/uploads/desktop_-onefull.webp",
@@ -40,13 +40,6 @@
           "img": "/img/uploads/vive-o-esporte-dsk.webp",
           "mobile_img": "/img/uploads/vive-o-esporte-mob.webp",
           "link": "https://www.strongnutrition.com.br/pages/sobre-nos"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/desktop-semana-do-consumidor.png",
-          "link": "https://www.strongnutrition.com.br/search?term=",
-          "mobile_img": "/img/uploads/mobile-semana-do-consumidor.png"
         }
       ],
       "full_width": true
